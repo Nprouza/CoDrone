@@ -33,7 +33,7 @@ drone.flip("back")        # Explicitly triggers a backflip
 drone.hover(2)            # Recover altitude and stability
 
 
-done.turn_right(360)
+drone.turn_right(360)
 drone.hover(2)
 
 drone.flip("left")
